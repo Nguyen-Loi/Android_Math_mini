@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Math_mini</string>
+    <string name="add">Cộng</string>
+    <string name="sub">Trừ</string>
+    <string name="multi">Nhân</string>
+    <string name="score">Điểm</string>
+    <string name="life">Số lượt</string>
+    <string name="time">Thời gian</string>
+    <string name="hint">Điền giá trị</string>
+    <string name="ok">Xác nhận</string>
+    <string name="next">Câu hỏi tiếp theo</string>
+    <string name="congratulation">Chúc mừng</string>
+    <string name="yourScore">Điểm của bạn</string>
+    <string name="playAgain">Chơi lại</string>
+    <string name="exit">Thoát</string>
+    <string name="tWrong">Sai rồi</string>
+    <string name="tGameOver">Kết thúc</string>
+    <string name="rightAnswer">Chúc mừng bạn</string>
+    <string name="invalid">Giá trị không thích hợp</string>
+    <string name="timeUp">Hết thời gian</string>
+</resources>
